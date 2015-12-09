@@ -2,6 +2,7 @@ name: thomas reisinger     actor
 favicon: null
 layout_spectrum: 0.4548344984650612
 typography_spectrum: 0.3831640991847962
+title: actor
 cta:
   domain: null
   bucket: null
