@@ -1,7 +1,7 @@
 name: thomas reisinger     actor
 favicon: null
-layout_spectrum: 0.49819
-typography_spectrum: 0.3831640991847962
+layout_spectrum: 0.99819
+typography_spectrum: 0.65601
 title: actor
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#937f73'
     - '#65574e'
   brandStrength: 0.9375
-  lightness: 0.10461084358394146
+  lightness: 0.1875
   saturation: 0.5250454321503639
-  rhythmicContrast: 0.07910261885263026
+  rhythmicContrast: 0.25
 purpose: []
