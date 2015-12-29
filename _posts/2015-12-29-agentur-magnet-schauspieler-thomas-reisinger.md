@@ -12,8 +12,8 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://www.agenturmagnet.de/schauspieler/thomas-reisinger/'
 title: 'agentur magnet " schauspieler " thomas reisinger'
-datePublished: '2015-12-29T21:05:10.407Z'
-dateModified: '2015-12-29T21:04:45.460Z'
+datePublished: '2015-12-29T21:06:09.099Z'
+dateModified: '2015-12-29T21:05:10.407Z'
 sourcePath: _posts/2015-12-29-agentur-magnet-schauspieler-thomas-reisinger.md
 published: true
 inFeed: true
