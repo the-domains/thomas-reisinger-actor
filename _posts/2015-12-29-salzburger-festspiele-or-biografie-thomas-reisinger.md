@@ -11,8 +11,8 @@ description: Salzburger Festspiele
 app_links: []
 isBasedOnUrl: 'http://salzburgerfestspiele.at/biografie/artistid/3787/browsercheck/false'
 title: 'Salzburger Festspiele | Biografie Thomas Reisinger'
-datePublished: '2015-12-29T21:03:19.958Z'
-dateModified: '2015-12-29T21:03:08.017Z'
+datePublished: '2015-12-29T21:06:08.915Z'
+dateModified: '2015-12-29T21:03:19.958Z'
 starred: true
 sourcePath: _posts/2015-12-29-salzburger-festspiele-or-biografie-thomas-reisinger.md
 published: true
